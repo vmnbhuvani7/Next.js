@@ -8,5 +8,3 @@ const Index = () => (
     <p>Home page</p>
   </Layout>
 )
-
-export default Index
